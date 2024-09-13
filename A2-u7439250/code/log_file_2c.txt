@@ -1,0 +1,10 @@
+Epoch 1 - Sketch Test Accuracy on real: 51.96%.
+Epoch 2 - Sketch Test Accuracy on real: 48.63%.
+Epoch 3 - Sketch Test Accuracy on real: 38.76%.
+Epoch 4 - Sketch Test Accuracy on real: 56.12%.
+Epoch 5 - Sketch Test Accuracy on real: 48.87%.
+Epoch 6 - Sketch Test Accuracy on real: 49.35%.
+Epoch 7 - Sketch Test Accuracy on real: 55.17%.
+Epoch 8 - Sketch Test Accuracy on real: 51.61%.
+Epoch 9 - Sketch Test Accuracy on real: 43.76%.
+Epoch 10 - Sketch Test Accuracy on real: 53.86%.

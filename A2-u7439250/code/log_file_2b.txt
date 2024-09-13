@@ -1,0 +1,10 @@
+Epoch 1 - Sketch Test Accuracy on sketch train: 86.21%.
+Epoch 2 - Sketch Test Accuracy on sketch train: 87.63%.
+Epoch 3 - Sketch Test Accuracy on sketch train: 89.89%.
+Epoch 4 - Sketch Test Accuracy on sketch train: 89.77%.
+Epoch 5 - Sketch Test Accuracy on sketch train: 89.30%.
+Epoch 6 - Sketch Test Accuracy on sketch train: 88.59%.
+Epoch 7 - Sketch Test Accuracy on sketch train: 88.59%.
+Epoch 8 - Sketch Test Accuracy on sketch train: 87.75%.
+Epoch 9 - Sketch Test Accuracy on sketch train: 87.99%.
+Epoch 10 - Sketch Test Accuracy on sketch train: 85.73%.
